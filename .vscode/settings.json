@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 5501,
+    "terminal.integrated.hideOnLastClosed": false,
+    "terminal.integrated.ignoreBracketedPasteMode": true,
+    "terminal.integrated.shellIntegration.showCommandGuide": false,
+    "terminal.integrated.suggest.cdPath": "absolute",
+    "terminal.integrated.tabStopWidth": 8,
+    "accessibility.signalOptions.debouncePositionChanges": false
+}
